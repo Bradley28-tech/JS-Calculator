@@ -1,0 +1,23 @@
+body{
+    background-color: grey;
+}
+tr{
+    
+    height:16vh;
+}
+td{
+    color: black;
+    width: 16vw;
+}
+.digitbutt{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: blue;
+}
+#inputbox{
+    color: grey;
+    width: 100%;
+    height:100%
+
+}
