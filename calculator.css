@@ -1,23 +1,33 @@
-body{
-    background-color: grey;
+table{
+    color: #fff;
+    text-align: centre;
+    border-collapse: collapse;
+    font: normal 3em Arial, Helvetica,sans-serif;
 }
 tr{
     
-    height:16vh;
+    height:16.02vh;
+    background-color: #4e494e;
 }
 td{
-    color: black;
-    width: 16vw;
+    width: 25vw;
+    border: 1px solid #4e494e ;
+}
+
+#inputbox{
+    background-color: #4e494e;
+    color: white;
+    text-align: right;
+    width: 100%;
+    font-size: 2em;
+    border: 0px;   
 }
 .digitbutt{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 600;
-    color: blue;
+    background-color: #807e80;
 }
-#inputbox{
-    color: grey;
-    width: 100%;
-    height:100%
-
+.oppbutt{
+    background-color:#ff9e06;
+}
+.acbuttt{
+    background-color: #656165;
 }
